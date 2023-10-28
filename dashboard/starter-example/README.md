@@ -6,13 +6,13 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - [X] Chapter 1
 - [X] Chapter 2
-- [ ] Chapter 3
-- [ ] Chapter 4
-- [ ] Chapter 5
-- [ ] Chapter 6
-- [ ] Chapter 7
-- [ ] Chapter 8
-- [ ] Chapter 9
+- [X] Chapter 3
+- [X] Chapter 4
+- [X] Chapter 5
+- [X] Chapter 6
+- [X] Chapter 7
+- [X] Chapter 8
+- [X] Chapter 9
 - [ ] Chapter 10
 - [ ] Chapter 12
 - [ ] Chapter 13
